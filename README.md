@@ -44,7 +44,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-###
+<div align="center">
+  <table>
+   <h2 align="center">Projects Overview</h2>
+  <tr>
+    <th>Project Title</th>
+    <th>Tech Stack</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td>AI-powered-WonderWorldPark-chat-bot</td>
+    <td>Node,TS,React,MySQL,Hugging Face AI Model</td>
+    <td>https://huggingface.co/spaces/tsSachin/wonderWorldThemParkChatBot</td>
+  </tr>
+</table>
+
+</div>
+
 <h2 align="center">📫 Connect</h2>
 
 ###
