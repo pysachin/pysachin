@@ -55,7 +55,7 @@
   <tr>
     <td>AI-powered-WonderWorldPark-chat-bot</td>
     <td>Node,TS,React,MySQL,Hugging Face AI Model</td>
-    <td>https://huggingface.co/spaces/tsSachin/wonderWorldThemParkChatBot</td>
+    <td>https://my-demo-projects-a25fd.web.app</td>
   </tr>
 </table>
 
